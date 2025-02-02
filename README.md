@@ -48,8 +48,8 @@ If you wish to build and run the app from source, follow these steps:
    ```bash
    git clone https://github.com/IkramMehmmod/image-classifier.git
 2. Navigate to the project folder:
-    cd image-classifier
+    - cd image-classifier
 3. Install dependencies:
-    flutter pub get
+    - flutter pub get
 # License
 - This project is licensed under the MIT License - see the LICENSE file for details.
